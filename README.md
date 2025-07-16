@@ -26,13 +26,9 @@ This project is built using **HTML5** and **Tailwind CSS**, with a hint of aesth
 
 ---
 
-  ## 📷 Live Demo
+  📷 Live Demo
 
-📷 Live Demo
-
-Check out the live version here 👉  
-[🔗 https://codedbyashik.github.io/login-form/](https://.github.io/login-form/)codedbyashik
-
+https://codedbyashik.github.io/login-form/
 
 
 
